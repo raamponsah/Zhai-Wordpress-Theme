@@ -14,8 +14,8 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;600&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,300&display=swap"
         rel="stylesheet">
- 
-    
+
+
     <link rel="stylesheet" href="./style.css">
 
     <?php wp_head(); ?>
@@ -26,8 +26,9 @@
     <header id="page-header"
         style="background-image:url(<?php _e(get_the_post_thumbnail_url()) ?>); background-size:cover; background-position:center center;">
         <div class="navbar">
-            <h1 id="header-logo">ZHAI</h1>
-            <nav role="navigation" class="navigation" id='navigation'>
+            <img src="<?php _e(get_stylesheet_directory_uri())?>/images/logo.png" id="logo" alt="">
+
+            <nav role=" navigation" class="navigation" id='navigation'>
                 <?php wp_nav_menu( array( 'theme_location' => 'main-menu' ) ); ?>
             </nav>
 
