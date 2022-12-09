@@ -2,7 +2,7 @@
 
 <body <?php body_class();?>>
     <header>
-        <h1 id="logo">ZHAI</h1>
+        <img src="<?php _e(get_stylesheet_directory_uri())?>/images/logo.png" id="logo" alt="">
         <nav role="navigation" class="navigation" id='navigation'>
 
             <?php wp_nav_menu( array( 'theme_location' => 'main-menu' ) ); ?>
