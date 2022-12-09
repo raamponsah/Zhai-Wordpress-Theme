@@ -8,7 +8,9 @@
     <title>Home</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,300&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="./style.css">
     <?php wp_head(); ?>
     <title><?php wp_title(''); ?></title>
@@ -16,7 +18,7 @@
 
 <body <?php body_class();?>>
     <header>
-        <h1 id="logo">ZHAI</h1>
+        <img src="<?php _e(get_stylesheet_directory_uri())?>/images/logo.png" id="logo" alt="">
         <nav role="navigation" class="navigation" id='navigation'>
             <!-- <ul>
                 <li><a href="./about.html">About us</a></li>
