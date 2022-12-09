@@ -1,0 +1,80 @@
+.owl-green{
+    background-color: #00a651;
+
+    color: #fff;
+}
+
+.owl-orange{
+    background-color: #ff8c00;
+
+    color: #fff;
+}
+
+.owl-purple{
+    background-color: #a64dff;
+
+    color: #fff;
+}
+
+.owl-pink{
+    background-color: #ff4d4d;
+    color: #fff;
+}
+
+.owl-blue{
+    background-color: #007CBE;
+    color: #fff;
+}
+
+.owl-lightblue{
+    background-color: #00b8d9;
+
+    color: #fff;
+}
+
+.owl-lightpink{
+    background-color: #f8e8fd;
+    color: rgb(136 29 144);
+    border-left:8px solid rgb(136 29 144)
+}
+.owl-lightwhimp{
+    background-color: #f8ffdf;
+    color: rgb(120 144 29);
+    border-left: 8px solid rgb(120 144 29);
+}
+.owl-bluelinter{
+    background-color: #d3dffa;
+    color: #0a0b53;
+    border-left: 8px solid rgba(32, 32, 189, 0.86)
+}
+
+.owl-lightglaze{
+    background-color: rgb(243 238 250);
+    color: #532a96;
+    border-left: 8px solid rgb(62 8 138 / 86%);
+}
+
+.owl-lightfire{
+    background-color: rgb(249 231 188);
+    color: #814504;
+    border-left: 8px solid rgb(172 134 28);
+}
+
+.owl-lightclerk{
+    background-color: #41ae9e29;
+    color: #11624d;
+    border-left: 8px solid rgb(6 171 130);
+}
+
+
+.owl-lightviolet{
+    background-color: #ffb3c2;
+    border-bottom: 5px solid #a673b5;
+    color: #fff;
+}
+
+.owl-lightcarrot{
+    background-color: #ffbf80;
+    border-bottom: 5px solid #b58c4d;
+    color: #fff;
+}

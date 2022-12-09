@@ -1,0 +1,137 @@
+
+.card{
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(10, 10, 221, 0.863);
+    margin-bottom: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    position: relative;
+    width: 350px;
+}
+
+.card:hover{
+    box-shadow: 0 1px 2px 0 var(--brand);
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+    background-color:var(--brand);
+    color: #fff;
+}
+
+.card.orange:hover{
+    box-shadow: 0 1px 2px 0 rgba(228, 87, 11, 0.863);
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+    background-color:rgba(228, 87, 11, 0.863);
+    color: #fff;
+}
+
+.card.blue:hover{
+    box-shadow: 0 1px 2px 0 rgba(10, 10, 221, 0.863);
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+    background-color:rgba(10, 10, 221, 0.863);
+    color: #fff;
+}
+
+.card.green:hover{
+    box-shadow: 0 1px 2px 0 rgba(8, 138, 34, 0.863);
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+    background-color:rgba(8, 138, 34, 0.863);
+    color: #fff;
+}
+
+.card.red:hover{
+    box-shadow: 0 1px 2px 0 rgba(10, 10, 221, 0.863);
+    transform: scale(1.05);
+    transition: all 0.3s ease-in-out;
+    background-color:rgba(10, 10, 221, 0.863);
+    color: #fff;
+}
+
+.card:hover .card-title{
+    color: #fff;
+}
+
+.card-icon{
+    position: absolute;
+    top: -30px;
+    left: 30px;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 20px;
+    box-shadow: 0 10px 20px 0 rgba(10, 112, 221, 0.863);
+    color:rgba(10, 112, 221, 0.863);
+}
+
+.card-icon.orange{
+    box-shadow: 0 10px 20px 0 rgba(228, 87, 11, 0.863);
+    color:rgba(228, 87, 11, 0.863);
+}
+.card-icon.green{
+    box-shadow: 0 10px 20px 0 rgba(26, 211, 109, 0.863);
+    color:rgba(26, 211, 109, 0.863);
+}
+
+.card-title.green{
+    margin-top: 50px;
+    color:rgba(26, 211, 109, 0.863);
+}
+.card-title.orange{
+    margin-top: 50px;
+    color:rgba(228, 87, 11, 0.863);
+}
+
+.card-text.green{
+    margin-top: 20px;
+}
+
+.card-title{
+    margin-top: 50px;
+    color: rgba(10, 112, 221, 0.863);
+}
+.card-text{
+    margin-top: 20px;
+}
+
+.card.green{
+    box-shadow: 0 1px 2px 0 rgba(26, 211, 109, 0.863);
+}
+
+.card.orange{
+    box-shadow: 0 1px 2px 0 rgba(228, 87, 11, 0.863);
+}
+
+
+
+.button-primary{
+    background-color: var(--brand-accent);
+    background-image: var(--brand-accent-gradient);
+
+    color: var(--brand-light);
+}
+.button{
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-family: var(--body-font);
+    font-size: 1rem;
+    font-weight: 600;
+    display: inline-block;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    /* box-shadow: 0 1px 200px 5px rgba(23, 23, 23, 0.863); */
+    
+
+}
+
+.button:hover{
+    background-color: var(--brand-accent-dark);
+    color: var(--brand-light);
+}
+
+.button-outline{
+    border:0.05rem solid var(--brand-light);
+}

@@ -1,0 +1,109 @@
+@media screen and (max-width: 1240px){
+
+    header {
+        display:flex;
+        flex-direction: column;
+        
+
+    }
+
+    header nav ul{
+        display:flex;
+        flex-direction: column;
+        
+    }
+
+    header nav ul li{
+        display:block;
+        width:100%;
+        padding:0.5rem;
+        text-align: center;
+        
+    }
+
+    main {
+        display:flex;
+        flex-direction: column;
+        clip: none;
+    }
+
+    main div#jumbotron{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 4rem calc(var(--site-padding)*1.5);
+        min-height: 350px;
+        background: var(--brand);
+        color: var(--brand-light);
+        line-height: 1.5;
+        clip-path:none;
+       
+    }
+
+    main div#jumbotron .jumbotron-text{
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+    main div#jumbotron .jumbotron-images{
+        display:none;
+    }
+
+    main section#featured-project{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        /* padding: 4rem var(--site-padding); */
+        min-height: 500px;
+    }
+
+    main section#featured-project .featured-image img{
+        width: 100%;
+ 
+        margin: 0 auto;
+        position: relative;
+        clip-path: inset(20px 20px 50px round 55px 0);
+    }
+
+    main section#featured-project .featured-story{
+        width: 100%;
+        padding: 1rem 0;
+        margin: 0 auto;
+        position: relative;
+    }
+
+    section#opportunities{
+        display: flex;
+        flex-direction: column;
+        padding: 4rem var(--site-padding);
+    
+        gap:40px;
+    }
+
+    footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        gap:40px;
+        padding: 4rem var(--site-padding);
+        margin-top: 100rem;
+        background: var(--brand);
+        color: var(--brand-light);
+        min-height: 400px;
+        width: 100%;
+        bottom: 0;
+        margin-top:-120px;
+    }
+    
+        
+    
+}
