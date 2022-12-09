@@ -98,7 +98,8 @@ get_header('general-page') ?>
                 </div>
                 <div class="option-content">
                     <h5>Donate Funds</h5>
-                    <p>You can supprt us by donating in kind or cash. We offer payment platforms that you can donate through</p>
+                    <p>You can supprt us by donating in kind or cash. We offer payment platforms that you can donate
+                        through</p>
                 </div>
 
             </div>
@@ -119,7 +120,8 @@ get_header('general-page') ?>
                 <div class="option-content">
                     <h5>Offer some suggestion</h5>
                     <p>
-                        You can also contribute by offering us any suggestion or linking us to people who may need support.
+                        You can also contribute by offering us any suggestion or linking us to people who may need
+                        support.
                     </p>
                 </div>
             </div>
