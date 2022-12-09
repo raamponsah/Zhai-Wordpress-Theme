@@ -89,7 +89,7 @@ main div#jumbotron{
     color: var(--brand-light);
     line-height: 1.5;
     clip-path:polygon(0 0, 100% 0, 100% 75vh, 0 100%);
-    margin: -16.5px;
+    /* margin: -16.5px; */
    
 }
 
