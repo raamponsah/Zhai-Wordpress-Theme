@@ -3,7 +3,7 @@
     --brand-gradient:linear-gradient(90deg, var(--brand), var(--brand-accent));
     --brand-accent-gradient:linear-gradient(90deg, var(--brand-accent), var(--brand-accent-dark));
     --brand:rgba(4, 29, 141, 0.86);
-    --brand-accent:#1f70fd;
+    --brand-accent:#71CBD3;
     --brand-accent-dark:#fc8600;
     --brand-light:#fff;
     --brand-dark-gray:rgb(208, 208, 208);
