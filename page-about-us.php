@@ -111,7 +111,10 @@
                 </svg>
                 <div>
                     <h5>COVID Programs</h5>
-                    <p>We help humans to grow</p>
+                    <p>
+                        Zeroing Covid and reducing cholera infections by supplying nose masks, soap, and hand sanitisers
+                        to schools
+                    </p>
                 </div>
             </div>
         </section>
@@ -158,7 +161,7 @@
                         <h5>John Paul</h5>
                         <p>CEO & Country director of ZHAI. He is an expereinced director and a philanthropist with focus
                             on helping people to grow. </p>
-               
+
                     </div>
 
                 </div>
@@ -171,7 +174,7 @@
                         <h5>Prince Odum</h5>
                         <p>Accounts/budget officer. He holds experience in accounting and bugdeting. He has worked on
                             several NGO projects.</p>
-               
+
                     </div>
 
                 </div>
@@ -186,7 +189,7 @@
                             A proficient, energetic, and ambitious HR Manager who has been working with the Water
                             Resources Commission of Ghana for over seventeen years.
                         </p>
-               
+
                     </div>
 
                 </div>
@@ -200,7 +203,7 @@
                         <p>Graduated from the University of Cape Coast with a Bachelor of Education Social Science
                             (Accounting major, Economics minor). Certificate from the Ghana Stock Exchange (GSE) for
                             passing all 3 levels of the GSE courses.</p>
-               
+
                     </div>
 
                 </div>
@@ -210,32 +213,38 @@
                     </div>
                     <div class="member-info">
                         <h5>Stephanie Anyeley Coffie</h5>
-                        <p>As a trained research assistant, she focuses on social-work research, where she uncovers issues especially in the gender domain. </p>
-               
+                        <p>As a trained research assistant, she focuses on social-work research, where she uncovers
+                            issues especially in the gender domain. </p>
+
                     </div>
 
                 </div>
 
                 <div class="member">
                     <div class="member-image">
-                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/profil.jpeg" alt="">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/yaabne.jpeg" alt="">
                     </div>
                     <div class="member-info">
-                        <h5>John Adum</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae ea fugiat. </p>
-               
+                        <h5>Yaa Obeng</h5>
+                        <p>
+                            ZHAI, Secretary, She is a trained adminstrative secretary. She has an extensive experience
+                            in adminstrative duties.
+                        </p>
+
                     </div>
 
                 </div>
 
                 <div class="member">
                     <div class="member-image">
-                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/profil.jpeg" alt="">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/lp.jpg" alt="">
                     </div>
                     <div class="member-info">
-                        <h5>John Adum</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae ea fugiat. </p>
-               
+                        <h5>Shirley</h5>
+                        <p>
+                            She is the human resource personel of ZHAI with extensive experience on NGO projects.
+                        </p>
+
                     </div>
 
                 </div>
