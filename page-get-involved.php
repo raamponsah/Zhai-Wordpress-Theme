@@ -342,10 +342,13 @@ get_header('general-page') ?>
 
     </section>
 
+
+
 </main>
 
+<?php get_template_part('includes/mission-sections-page'); ?>
 
 
-<?php get_footer() ?>
+
 
 <?php get_footer() ?>

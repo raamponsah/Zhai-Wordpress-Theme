@@ -226,6 +226,10 @@ section#video-background{
 
 }
 
+.container-content{
+    width: 550px;
+}
+
 
 
 
@@ -823,3 +827,4 @@ h1.header-page-jumbo-title{
     margin-bottom:-4rem;
     color:var(--brand)
 }
+

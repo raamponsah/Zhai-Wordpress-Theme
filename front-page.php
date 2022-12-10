@@ -1,11 +1,11 @@
 <?php get_header() ?>
 
-<body <?php body_class();?>>
+<body <?php body_class(); ?>>
     <header>
-        <img src="<?php _e(get_stylesheet_directory_uri())?>/images/logo.png" id="logo" alt="">
+        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/logo.png" id="logo" alt="">
         <nav role="navigation" class="navigation" id='navigation'>
 
-            <?php wp_nav_menu( array( 'theme_location' => 'main-menu' ) ); ?>
+            <?php wp_nav_menu(array('theme_location' => 'main-menu')); ?>
         </nav>
 
         <a href="" class="button button-outline">Donate</a>
@@ -30,8 +30,8 @@
             <div class="featured-image">
                 <img src="./images/15.jpg" alt="">
             </div>
-            <?php if(is_active_sidebar( 'featured-project' )): ?>
-            <?php dynamic_sidebar( 'featured-project' ); ?>
+            <?php if (is_active_sidebar('featured-project')): ?>
+            <?php dynamic_sidebar('featured-project'); ?>
             <?php endif; ?>
 
         </section>
@@ -78,17 +78,7 @@
             </div>
         </section>
 
-        <section id="video-background">
-            <div class="overlay">
-                <h4>Our Mission</h4>
-                <p>
-                    Our mission to bring hope to the hopeless and the abandoned in the societies. We seek to offer,
 
-                    hope through quality education, quality health-care and orphanage offerings.
+        <?php get_template_part('includes/mission-sections-page'); ?>
 
-                </p>
-                <a href="" class="button button-primary mt-2">learn more &rarr;</a>
-            </div>
-        </section>
-
-        <?php get_footer()?>
+        <?php get_footer() ?>

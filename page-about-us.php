@@ -159,6 +159,7 @@
                     </div>
                     <div class="member-info">
                         <h5>John Paul</h5>
+                        <h6>CEO & Country Director</h6>
                         <p>CEO & Country director of ZHAI. He is an expereinced director and a philanthropist with focus
                             on helping people to grow. </p>
 
@@ -172,6 +173,7 @@
                     </div>
                     <div class="member-info">
                         <h5>Prince Odum</h5>
+                        <h6>Accounts Officer</h6>
                         <p>Accounts/budget officer. He holds experience in accounting and bugdeting. He has worked on
                             several NGO projects.</p>
 
@@ -185,6 +187,7 @@
                     </div>
                     <div class="member-info">
                         <h5>Florence Mawusi Dagbanu</h5>
+                        <h6>HR Manager</h6>
                         <p>
                             A proficient, energetic, and ambitious HR Manager who has been working with the Water
                             Resources Commission of Ghana for over seventeen years.
@@ -200,6 +203,7 @@
                     </div>
                     <div class="member-info">
                         <h5>Daniel Kojo Adjei</h5>
+                        <h6>Accountant</h6>
                         <p>Graduated from the University of Cape Coast with a Bachelor of Education Social Science
                             (Accounting major, Economics minor). Certificate from the Ghana Stock Exchange (GSE) for
                             passing all 3 levels of the GSE courses.</p>
@@ -213,6 +217,7 @@
                     </div>
                     <div class="member-info">
                         <h5>Stephanie Anyeley Coffie</h5>
+                        <h6>Research Assistant</h6>
                         <p>As a trained research assistant, she focuses on social-work research, where she uncovers
                             issues especially in the gender domain. </p>
 
@@ -226,6 +231,7 @@
                     </div>
                     <div class="member-info">
                         <h5>Yaa Obeng</h5>
+                        <h6>Administrative Secretary</h6>
                         <p>
                             ZHAI, Secretary, She is a trained adminstrative secretary. She has an extensive experience
                             in adminstrative duties.
@@ -240,7 +246,8 @@
                         <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/lp.jpg" alt="">
                     </div>
                     <div class="member-info">
-                        <h5>Shirley</h5>
+                        <h5>Grace Wornyo Azaonoo </h5>
+                        <h6>Programme Coordinator</h6>
                         <p>
                             She is the human resource personel of ZHAI with extensive experience on NGO projects.
                         </p>
@@ -255,16 +262,8 @@
 
         </div>
     </section>
+    <?php get_template_part('includes/mission-sections-page'); ?>
 
-    <section id="video-background">
-        <div class="overlay">
-            <h4>Our Mission</h4>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.
-            </p>
-            <a href="" class="button button-primary mt-2">learn more &rarr;</a>
-        </div>
-    </section>
 </main>
 </body>
 <?php get_footer() ?>
