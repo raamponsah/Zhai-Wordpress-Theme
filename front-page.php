@@ -45,9 +45,7 @@
                 <div>
                     <h4 class="card-title green">Ways to Donate</h4>
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus quam eveniet voluptate ab
-                        corrupti, quisquam ducimus harum? Ea atque deserunt asperiores voluptas dicta consequatur
-                        dolores.
+                        You can donate in kind or cash to support our causes.his could be done via momo or paypal.
                     </p>
                 </div>
             </div>
@@ -59,9 +57,8 @@
                 <div>
                     <h4 class="card-title">Get Involved</h4>
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus quam eveniet voluptate ab
-                        corrupti, quisquam ducimus harum? Ea atque deserunt asperiores voluptas dicta consequatur
-                        dolores.
+                        Getting involved with us is as easy as it gets, head towards our get involve page to see our
+                        five ways to ge involved
                     </p>
                 </div>
             </div>
@@ -75,9 +72,7 @@
                 <div>
                     <h4 class="card-title orange">Outreach Programs</h4>
                     <p class="card-text">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus quam eveniet voluptate ab
-                        corrupti, quisquam ducimus harum? Ea atque deserunt asperiores voluptas dicta consequatur
-                        dolores.
+                        We offer outreach programs across domains of education, health, agriculture and gender rights.
                     </p>
                 </div>
             </div>
@@ -87,7 +82,10 @@
             <div class="overlay">
                 <h4>Our Mission</h4>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.
+                    Our mission to bring hope to the hopeless and the abandoned in the societies. We seek to offer,
+
+                    hope through quality education, quality health-care and orphanage offerings.
+
                 </p>
                 <a href="" class="button button-primary mt-2">learn more &rarr;</a>
             </div>

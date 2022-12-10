@@ -1,7 +1,7 @@
 :root{
 
     --brand-gradient:linear-gradient(90deg, var(--brand), var(--brand-accent));
-    --brand-accent-gradient:linear-gradient(90deg, var(--brand-accent), var(--brand-accent-dark));
+    --brand-accent-gradient: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
     --brand:rgba(4, 29, 141, 0.86);
     --brand-accent:#71CBD3;
     --brand-accent-dark:#fc8600;
