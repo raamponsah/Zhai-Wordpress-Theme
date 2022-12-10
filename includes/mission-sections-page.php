@@ -8,7 +8,7 @@
                 hope through quality education, quality health-care and orphanage offerings.
 
             </p>
-            <a href="" class="button button-primary mt-2">learn more &rarr;</a>
+            <a href="" class="gen-btn">learn more &rarr;</a>
         </div>
     </div>
 </section>
