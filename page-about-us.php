@@ -123,7 +123,7 @@
 
     <section id="special-page-jumbo">
         <div class="special-page-jumbo-image">
-            <img src="<?php _e(get_stylesheet_directory_uri())  ?>/images/abt.jpg" alt="">
+            <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/abt.jpg" alt="">
         </div>
         <div class="special-page-jumbo-text">
             <h1>Redefining the African Hope</h1>
@@ -263,6 +263,7 @@
         </div>
     </section>
     <?php get_template_part('includes/mission-sections-page'); ?>
+
 
 </main>
 </body>

@@ -92,14 +92,7 @@
             </div>
         </section>
 
-        <section id="video-background">
-            <div class="overlay">
-                <h4>Our Mission</h4>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae.
-                </p>
-                <a href="" class="button button-primary mt-2">learn more &rarr;</a>
-            </div>
-        </section>
+        <?php get_template_part('includes/mission-sections-page'); ?>
+
 
         <?php get_footer()?>
