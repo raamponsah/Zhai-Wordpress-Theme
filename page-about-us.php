@@ -169,7 +169,8 @@
                     </div>
                     <div class="member-info">
                         <h5>Prince Odum</h5>
-                        <p>Accounts/budget officer. He holds experience in accounting and bugdeting. He has worked on several NGO projects.</p>
+                        <p>Accounts/budget officer. He holds experience in accounting and bugdeting. He has worked on
+                            several NGO projects.</p>
                         <i class="fa-regular fa-mail"></i>
                     </div>
 
@@ -205,10 +206,10 @@
                 </div>
                 <div class="member">
                     <div class="member-image">
-                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/profil.jpeg" alt="">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/ra.jpeg" alt="">
                     </div>
                     <div class="member-info">
-                        <h5>John Adum</h5>
+                        <h5>Stephanie Anyeley Coffie</h5>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae ea fugiat. </p>
                         <i class="fa-regular fa-mail"></i>
                     </div>
