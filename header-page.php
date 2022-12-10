@@ -33,5 +33,5 @@
             <?php wp_nav_menu( array( 'theme_location' => 'main-menu' ) ); ?>
         </nav>
 
-        <a href="" class="button button-outline">Donate</a>
+        <a href="" class="donate-btn">Donate</a>
     </header>
