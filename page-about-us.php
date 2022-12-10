@@ -169,6 +169,20 @@
 
                 <div class="member">
                     <div class="member-image">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/zhuang.jpeg" alt="">
+                    </div>
+                    <div class="member-info">
+                        <h5>John Paul</h5>
+                        <h6>CEO & Country Director</h6>
+                        <p>CEO & Country director of ZHAI. He is an expereinced director and a philanthropist with focus
+                            on helping people to grow. </p>
+
+                    </div>
+
+                </div>
+
+                <div class="member">
+                    <div class="member-image">
                         <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/prince.jpg" alt="">
                     </div>
                     <div class="member-info">

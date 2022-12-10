@@ -141,20 +141,21 @@ main div#jumbotron{
 main div#jumbotron .jumbotron-text p{
     margin:2rem 0;
 }
+
 #jumbotron a.gen-btn{
     margin: 4rem 0;
 }
+
 main div#jumbotron .jumbotron-text{
     width: 45%;
     padding: 1rem 0;
     animation: fadeIn 3s ease-in-out 1;
-
-    
 }
 
 .jumbotron-text{
     margin:2rem 0;
 }
+
 main div#jumbotron .jumbotron-text p{
     font-size: 1.25rem;
 }
@@ -179,9 +180,9 @@ main div#jumbotron .jumbotron-images img:first-child{
 main div#jumbotron .jumbotron-images img:last-child{
     /* top:130px;
     left:10px; */
-    width:100%;
+    width:850px;
     /* position: absolute; */
-    clip-path: inset(20px 20px 50px round 55px 0);
+    /* clip-path: inset(20px 20px 50px round 55px 0); */
     animation: fadeIn 2s ease-in-out 1;
     box-shadow:5px 5px 10px rgba(0,0,0,0.2);
  
@@ -204,7 +205,7 @@ main section#featured-project{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    padding: 8rem var(--site-padding);
+    padding: 4rem 3rem;
     min-height: 500px;
     background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
     clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
