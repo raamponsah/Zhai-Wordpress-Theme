@@ -156,7 +156,8 @@
                     </div>
                     <div class="member-info">
                         <h5>John Paul</h5>
-                        <p>CEO & Country director of ZHAI.</p>
+                        <p>CEO & Country director of ZHAI. He is an expereinced director and a philanthropist with focus
+                            on helping people to grow. </p>
                         <i class="fa-regular fa-mail"></i>
                     </div>
 
@@ -164,11 +165,11 @@
 
                 <div class="member">
                     <div class="member-image">
-                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/profil.jpeg" alt="">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/prince.jpg" alt="">
                     </div>
                     <div class="member-info">
-                        <h5>John Adum</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione molestiae ea fugiat. </p>
+                        <h5>Prince Odum</h5>
+                        <p>Accounts/budget officer. He holds experience in accounting and bugdeting. He has worked on several NGO projects.</p>
                         <i class="fa-regular fa-mail"></i>
                     </div>
 
@@ -176,12 +177,12 @@
 
                 <div class="member">
                     <div class="member-image">
-                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/profil.jpeg" alt="">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/fly.jpeg" alt="">
                     </div>
                     <div class="member-info">
                         <h5>Florence Mawusi Dagbanu</h5>
                         <p>
-                            . A proficient, energetic, and ambitious HR Manager who has been working with the Water
+                            A proficient, energetic, and ambitious HR Manager who has been working with the Water
                             Resources Commission of Ghana for over seventeen years.
                         </p>
                         <i class="fa-regular fa-mail"></i>
@@ -196,7 +197,8 @@
                     <div class="member-info">
                         <h5>Daniel Kojo Adjei</h5>
                         <p>Graduated from the University of Cape Coast with a Bachelor of Education Social Science
-                            (Accounting major, Economics minor). </p>
+                            (Accounting major, Economics minor). Certificate from the Ghana Stock Exchange (GSE) for
+                            passing all 3 levels of the GSE courses.</p>
                         <i class="fa-regular fa-mail"></i>
                     </div>
 
