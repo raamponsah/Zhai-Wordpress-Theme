@@ -27,9 +27,9 @@ header{
     animation: fadeIn 3s ease-in-out 1;
 }
 
-.donate-btn{
+a.donate-btn{
     background: var(--brand-light);
-    color: black;
+   
     padding: 1rem 2rem;
     border-radius: 40px;
     text-decoration: none;
@@ -41,12 +41,13 @@ header{
     border: 2px solid var(--brand-light);
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
     animation: fadeIn 3s ease-in-out 1;
+    color: black;
 
 }
 
-.gen-btn{
+a.gen-btn{
     background: var(--brand-light);
-    color: black;
+    
     padding: 1rem 2rem;
     border-radius: 40px;
     text-decoration: none;
@@ -58,6 +59,7 @@ header{
     border: 2px solid var(--brand-light);
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
     animation: fadeIn 3s ease-in-out 1;
+    color: black;
 }
 
 header nav ul{
