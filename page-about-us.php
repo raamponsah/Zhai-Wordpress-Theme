@@ -153,6 +153,23 @@
             <h3>Meet the Team</h3>
 
             <section class="team">
+
+                <div class="member">
+                    <div class="member-image">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/zf.jpg" alt="">
+                    </div>
+                    <div class="member-info">
+                        <h5>ZHUANG ZIHAO BRANDON</h5>
+                        <h6>ZHAI Founder & Country Director-China</h6>
+                        <p>
+                            ZHUANG ZIHAO BRANDON is the founder of ZHAI. He is a philanthropist with focus on helping
+                            people to grow.
+                        </p>
+
+                    </div>
+
+                </div>
+
                 <div class="member">
                     <div class="member-image">
                         <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/director.jpeg" alt="">
