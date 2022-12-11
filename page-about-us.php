@@ -190,7 +190,7 @@
                     </div>
                     <div class="member-info">
                         <h5>John Paul</h5>
-                        <h6>CEO & Country Director</h6>
+                        <h6>CEO & Country Director- Ghana</h6>
                         <p>CEO & Country director of ZHAI. He is an expereinced director and a philanthropist with focus
                             on helping people to grow. </p>
 
@@ -207,6 +207,21 @@
                         <p>
                             She is the human resource personel of ZHAI with extensive experience on NGO projects.
                         </p>
+
+                    </div>
+
+                </div>
+
+                <div class="member">
+                    <div class="member-image">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/profil.jpeg" alt="">
+                    </div>
+                    <div class="member-info">
+                        <h5>Daniel Kojo Adjei</h5>
+                        <h6>Accountant</h6>
+                        <p>Graduated from the University of Cape Coast with a Bachelor of Education Social Science
+                            (Accounting major, Economics minor). Certificate from the Ghana Stock Exchange (GSE) for
+                            passing all 3 levels of the GSE courses.</p>
 
                     </div>
 
@@ -242,20 +257,7 @@
 
                 </div>
 
-                <div class="member">
-                    <div class="member-image">
-                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/profil.jpeg" alt="">
-                    </div>
-                    <div class="member-info">
-                        <h5>Daniel Kojo Adjei</h5>
-                        <h6>Accountant</h6>
-                        <p>Graduated from the University of Cape Coast with a Bachelor of Education Social Science
-                            (Accounting major, Economics minor). Certificate from the Ghana Stock Exchange (GSE) for
-                            passing all 3 levels of the GSE courses.</p>
 
-                    </div>
-
-                </div>
                 <div class="member">
                     <div class="member-image">
                         <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/ra.jpeg" alt="">
