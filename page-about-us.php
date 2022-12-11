@@ -272,9 +272,38 @@
 
                 </div>
 
+                <div class="member">
+                    <div class="member-image">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/larry.jpeg" alt="">
+                    </div>
+                    <div class="member-info">
+                        <h5>Larry-Bryan Johnpauls</h5>
+                        <h6>Monitoring and Evaluation (M&E) Officer</h6>
+                        <p>
+                            Larry is the M&E expert of our team ensuring all projects and programs go on according to
+                            the objectives set
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="member">
+                    <div class="member-image">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/larry.jpeg" alt="">
+                    </div>
+                    <div class="member-info">
+                        <h5>Eyiram Celine Johnpauls</h5>
+                        <h6>Youth Ambassador for Zhai</h6>
+                        <p>
+                            Eyiram is the youth ambassador of ZHAI who facilitates in rallying the youth volunteers in ZHAI programs
+                        </p>
+
+                    </div>
+
+                </div>
 
 
-                <div class="member"></div>
 
             </section>
 
