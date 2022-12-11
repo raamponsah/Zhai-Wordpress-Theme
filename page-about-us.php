@@ -169,6 +169,20 @@
                     </div>
 
                 </div>
+                <div class="member">
+                    <div class="member-image">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/zhuang.jpeg" alt="">
+                    </div>
+                    <div class="member-info">
+                        <h5>Zhuang Xa Xi Sandy</h5>
+                        <h6>Deputy Country Director -China</h6>
+                        <p>
+                            Xi, is the leads the economical front for the various ZHAI projects and programs in China.
+                        </p>
+
+                    </div>
+
+                </div>
 
                 <div class="member">
                     <div class="member-image">
@@ -296,7 +310,8 @@
                         <h5>Eyiram Celine Johnpauls</h5>
                         <h6>Youth Ambassador for Zhai</h6>
                         <p>
-                            Eyiram is the youth ambassador of ZHAI who facilitates in rallying the youth volunteers in ZHAI programs
+                            Eyiram is the youth ambassador of ZHAI who facilitates in rallying the youth volunteers in
+                            ZHAI programs
                         </p>
 
                     </div>
