@@ -288,7 +288,7 @@
 
                 <div class="member">
                     <div class="member-image">
-                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/larry.jpeg" alt="">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/larry.jpg" alt="">
                     </div>
                     <div class="member-info">
                         <h5>Larry-Bryan Johnpauls</h5>
@@ -304,7 +304,7 @@
 
                 <div class="member">
                     <div class="member-image">
-                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/larry.jpeg" alt="">
+                        <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/sd.jpg" alt="">
                     </div>
                     <div class="member-info">
                         <h5>Eyiram Celine Johnpauls</h5>
