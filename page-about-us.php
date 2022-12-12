@@ -192,9 +192,8 @@
                         <h5>John Paul</h5>
                         <h6>CEO & Country Director- Ghana</h6>
                         <p>
-                            An educationist and and professional adult educator. He is also an
-                            experienced business administrator and the Country Director for Ghana in Accra, the Head
-                            Quarters of ZHAI. John-Paul has compassion for the needy, especially school dropouts who
+                            An educationist and and professional adult educator. At present, he is a doctoral mentee at
+                            the University Ghana. John-Paul has compassion for the needy, especially school dropouts who
                             make ends meet as street hawkers.
                         </p>
 
