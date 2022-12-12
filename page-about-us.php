@@ -191,8 +191,12 @@
                     <div class="member-info">
                         <h5>John Paul</h5>
                         <h6>CEO & Country Director- Ghana</h6>
-                        <p>CEO & Country director of ZHAI. He is an expereinced director and a philanthropist with focus
-                            on helping people to grow. </p>
+                        <p>
+                            JOHN-PAUL AZAONOO, educationist and and professional adult educator. He is also an
+                            experienced business administrator and the Country Director for Ghana in Accra, the Head
+                            Quarters of ZHAI. John-Paul has compassion for the needy, especially school dropouts who
+                            make ends meet as street hawkers.
+                        </p>
 
                     </div>
 
