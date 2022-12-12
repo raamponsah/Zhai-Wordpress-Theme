@@ -193,7 +193,7 @@
                         <h6>CEO & Country Director- Ghana</h6>
                         <p>
                             An educationist and and professional adult educator. At present, he is a doctoral mentee at
-                            the University Ghana. John-Paul has compassion for the needy, especially school dropouts who
+                            the University Ghana. He has compassion for the needy, especially school dropouts who
                             make ends meet as street hawkers.
                         </p>
 
