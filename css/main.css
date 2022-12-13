@@ -205,9 +205,8 @@ main div#jumbotron .jumbotron-text h1{
 
 
 main section#featured-project{
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     padding: 4rem 3rem;
     min-height: 500px;
     background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
