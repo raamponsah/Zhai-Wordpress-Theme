@@ -1,7 +1,7 @@
 <?php
 
 
-get_header('home-page') ?>
+get_header('home') ?>
 <aside class="page-cta">
     <div>
         <h3>Re-defining: Hope To the African</h3>
