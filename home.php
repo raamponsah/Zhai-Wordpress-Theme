@@ -4,10 +4,12 @@
 get_header('founder') ?>
 <aside class="page-cta">
     <div>
-        <h3>Re-defining: Hope To the African</h3>
+        <img src="" alt="" class="round">
+        <h3>Zihao Zhuang</h3>
         <p>
-            There comes a nice little fluffer. This present moment is perfect simply due to the fact you're experiencing
-            it.
+            ZHAI believes that a person who is no longer stymied by reading a job application will have the skills to
+            not only find but also keep a job. Improved literacy also leads to more informed health decisions about
+            nutrition and preventative care, which benefits both the individual and the nation as a whole.
         </p>
     </div>
     <div>
