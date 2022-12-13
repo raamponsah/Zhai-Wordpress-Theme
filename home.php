@@ -7,16 +7,17 @@ get_header('founder') ?>
         <div class="img-wrapper">
             <img src="<?php _e(get_stylesheet_directory_uri(  )) ?>/images/founder.jpeg" alt="" class="round">
         </div>
-        <h3>Zihao Zhuang</h3>
-        <p>
-            ZHAI believes that a person who is no longer stymied by reading a job application will have the skills to
-            not only find but also keep a job. Improved literacy also leads to more informed health decisions about
-            nutrition and preventative care, which benefits both the individual and the nation as a whole.
-        </p>
+        <div class="content-text">
+            <h3>Zihao Zhuang</h3>
+            <p>
+                ZHAI believes that a person who is no longer stymied by reading a job application will have the skills
+                to
+                not only find but also keep a job. Improved literacy also leads to more informed health decisions about
+                nutrition and preventative care, which benefits both the individual and the nation as a whole.
+            </p>
+        </div>
     </div>
-    <div>
-        <a href="" class="button button-outline orange">JOIN US TODAY</a>
-    </div>
+
 </aside>
 
 <main>
