@@ -1,7 +1,7 @@
 <?php
 
 
-get_header('home') ?>
+get_header('founder') ?>
 <aside class="page-cta">
     <div>
         <h3>Re-defining: Hope To the African</h3>
@@ -24,15 +24,21 @@ get_header('home') ?>
     </div>
     <h3 class="spared-title">Articles by Zhai Founder</h3>
     <div class="articles-wrapper">
-        <?php if(have_posts()):while(have_posts()):the_post(); ?>
+        <?php if (have_posts()):
+            while (have_posts()):
+                the_post(); ?>
         <div class="article">
             <div class="article-image">
-                <img src="<?php the_post_thumbnail()?>" alt="">
+                <img src="<?php the_post_thumbnail() ?>" alt="">
             </div>
-            <h4 class="article-title"><?php the_title(); ?></h4>
-            <p><?php the_excerpt( ) ?></p>
+            <h4 class="article-title">
+                <?php the_title(); ?>
+            </h4>
+            <p>
+                <?php the_excerpt() ?>
+            </p>
         </div>
-        <?php endwhile;endif; ?>
+        <?php endwhile; endif; ?>
 
     </div>
 
