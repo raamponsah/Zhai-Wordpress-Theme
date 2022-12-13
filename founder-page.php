@@ -20,6 +20,29 @@ get_header('general-page') ?>
 
 
 
+    <div class="founder-video">
+
+    </div>
+
+    <div class="articles-wrapper">
+        <div class="article">
+            <div class="article-image">
+                <img src="<?php _e(get_stylesheet_directory_uri())?>/images/4.jpg" alt="">
+            </div>
+            <h4 class="article-title">Article One</h4>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint veritatis perspiciatis aliquid voluptates
+                adipisci illo, est suscipit reprehenderit cum quaerat. </p>
+        </div>
+
+        <div class="article">
+            <div class="article-image">
+                <img src="<?php _e(get_stylesheet_directory_uri())?>/images/4.jpg" alt="">
+            </div>
+            <h4 class="article-title">Article One</h4>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint veritatis perspiciatis aliquid voluptates
+                adipisci illo, est suscipit reprehenderit cum quaerat. </p>
+        </div>
+    </div>
 
 
 

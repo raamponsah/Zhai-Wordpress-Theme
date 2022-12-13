@@ -50,7 +50,7 @@
                 <div>
                     <h4 class="card-title green">Ways to Donate</h4>
                     <p class="card-text">
-                        You can donate in kind or cash to support our causes.his could be done via momo or paypal.
+                        You can donate in kind or cash to support our causes. This could be done via momo or paypal.
                     </p>
                 </div>
             </div>
