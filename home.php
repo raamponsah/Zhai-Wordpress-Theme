@@ -3,18 +3,15 @@
 
 get_header('founder') ?>
 <aside class="page-cta">
-    <div>
 
-        <div class="content-text">
-            <h3>Zihao Zhuang</h3>
-            <p>
-                ZHAI believes that a person who is no longer stymied by reading a job application will have the skills
-                to
-                not only find but also keep a job. Improved literacy also leads to more informed health decisions about
-                nutrition and preventative care, which benefits both the individual and the nation as a whole.
-            </p>
-        </div>
-    </div>
+    <h3>Zihao Zhuang</h3>
+    <p>
+        ZHAI believes that a person who is no longer stymied by reading a job application will have the skills
+        to
+        not only find but also keep a job. Improved literacy also leads to more informed health decisions about
+        nutrition and preventative care, which benefits both the individual and the nation as a whole.
+    </p>
+
 
 </aside>
 
