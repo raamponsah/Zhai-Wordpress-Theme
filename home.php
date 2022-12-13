@@ -2,9 +2,10 @@
 
 
 get_header('founder') ?>
-<aside class="page-cta">
+<aside class="page-cta pg">
 
-    <h3>Zihao Zhuang</h3>
+    <h2>Zihao Zhuang</h2>
+
     <p>
         ZHAI believes that a person who is no longer stymied by reading a job application will have the skills
         to
