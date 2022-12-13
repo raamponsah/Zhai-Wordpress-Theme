@@ -884,7 +884,7 @@ h1.header-page-jumbo-title{
 
 .articles-wrapper{
     display:grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(520px, 1fr));
     width:100%;
     gap:20px;
     padding:4rem 0;
@@ -921,7 +921,6 @@ h1.header-page-jumbo-title{
 
 
 .article-image {
-    width: 400px;
     height: 400px;
     overflow: hidden;
 }
