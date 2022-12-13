@@ -28,7 +28,7 @@ get_header('general-page') ?>
         <?php if(have_posts()):while(have_posts()):the_post(); ?>
         <div class="article">
             <div class="article-image">
-                <img src="<?php get_the_post_thumbnail( )?>" alt="">
+                <img src="<?php the_post_thumbnail()?>" alt="">
             </div>
             <h4 class="article-title"><?php the_title(); ?></h4>
             <p><?php the_excerpt( ) ?></p>
