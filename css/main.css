@@ -920,7 +920,7 @@ h1.header-page-jumbo-title{
 }
 
 .article .article-image{
-    width:100%;
+    width:450px;
     height:200px;
     overflow:hidden;
     border-radius:1rem;
