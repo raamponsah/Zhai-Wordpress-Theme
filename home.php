@@ -4,9 +4,7 @@
 get_header('founder') ?>
 <aside class="page-cta">
     <div>
-        <div class="img-wrapper">
-            <img src="<?php _e(get_stylesheet_directory_uri(  )) ?>/images/found.png" alt="" class="round">
-        </div>
+
         <div class="content-text">
             <h3>Zihao Zhuang</h3>
             <p>
