@@ -4,7 +4,9 @@
 get_header('founder') ?>
 <aside class="page-cta">
     <div>
-        <img src="" alt="" class="round">
+        <div class="img-wrapper">
+            <img src="<?php _e(get_stylesheet_directory_uri(  )) ?>/images/founder.jpeg" alt="" class="round">
+        </div>
         <h3>Zihao Zhuang</h3>
         <p>
             ZHAI believes that a person who is no longer stymied by reading a job application will have the skills to
