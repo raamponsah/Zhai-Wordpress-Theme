@@ -919,17 +919,16 @@ h1.header-page-jumbo-title{
     color:white;
 }
 
-.article .article-image{
-    width:450px;
-    height:200px;
-    overflow:hidden;
-    border-radius:1rem;
-    margin-bottom:1rem;
-}
 
 .article img{
     width:100%;
     height:100%;
     object-fit:cover;
     border-radius: 1rem;
+}
+
+.article-image {
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
 }
