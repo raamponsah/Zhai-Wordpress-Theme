@@ -221,7 +221,7 @@ main section#featured-project{
 
 main section#featured-project .featured-image img{
 
-    padding: 1rem 0;
+    padding: 2rem 0;
     margin: 0 auto;
     position: relative;
     clip-path: inset(20px 20px 50px round 55px 0);
@@ -235,7 +235,7 @@ main section#featured-story h3{
 
 main section#featured-project .featured-story{
 
-    padding: 1rem 0;
+    padding: 2rem 0;
     margin: 0 auto;
     position: relative;
 }
