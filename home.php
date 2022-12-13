@@ -1,4 +1,8 @@
-<?php get_header('general-page') ?>
+<?php
+
+// Template Name: Founder's Page
+
+get_header('general-page') ?>
 <aside class="page-cta">
     <div>
         <h3>Re-defining: Hope To the African</h3>
@@ -16,6 +20,29 @@
 
 
 
+    <div class="founder-video">
+
+    </div>
+    <h3>Articles by Zhai Founder</h3>
+    <div class="articles-wrapper">
+        <div class="article">
+            <div class="article-image">
+                <img src="<?php _e(get_stylesheet_directory_uri())?>/images/4.jpg" alt="">
+            </div>
+            <h4 class="article-title">Article One</h4>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint veritatis perspiciatis aliquid voluptates
+                adipisci illo, est suscipit reprehenderit cum quaerat. </p>
+        </div>
+
+        <div class="article">
+            <div class="article-image">
+                <img src="<?php _e(get_stylesheet_directory_uri())?>/images/4.jpg" alt="">
+            </div>
+            <h4 class="article-title">Article One</h4>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint veritatis perspiciatis aliquid voluptates
+                adipisci illo, est suscipit reprehenderit cum quaerat. </p>
+        </div>
+    </div>
 
 
 
