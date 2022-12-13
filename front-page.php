@@ -33,7 +33,7 @@
         </div>
         <section id="featured-project">
             <div class="featured-image">
-                <img src="./images/15.jpg" alt="">
+                <img src="<?php _e(get_stylesheet_directory_uri())?>/images/sos.png" alt="">
             </div>
             <?php if (is_active_sidebar('featured-project')): ?>
             <?php dynamic_sidebar('featured-project'); ?>
