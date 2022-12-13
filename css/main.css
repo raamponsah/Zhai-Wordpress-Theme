@@ -892,9 +892,9 @@ h1.header-page-jumbo-title{
 
 .article{
     display:flex;
-    flex-direction:row wrap;
+    flex-direction:column;
     justify-content:space-between;
-    height:100%;
+    width:100%;
     padding:1rem;
     border-radius: 1rem;
 }
