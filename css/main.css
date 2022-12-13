@@ -886,8 +886,9 @@ h1.header-page-jumbo-title{
     display:grid;
     grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
     width:100%;
-    gap:20px;
+    gap:30px;
     padding:4rem 0;
+    padding: 4rem var(--site-padding);
 }
 
 .article{
