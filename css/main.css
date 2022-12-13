@@ -918,13 +918,6 @@ h1.header-page-jumbo-title{
 }
 
 
-.article img{
-    width:100%;
-    height:100%;
-    object-fit:cover;
-    border-radius: 1rem;
-}
-
 .article-image {
     width: 400px;
     height: 400px;
