@@ -23,7 +23,7 @@ get_header('general-page') ?>
     <div class="founder-video">
 
     </div>
-    <h3>Articles by Zhai Founder</h3>
+    <h3 class="spared-title">Articles by Zhai Founder</h3>
     <div class="articles-wrapper">
         <div class="article">
             <div class="article-image">
@@ -47,7 +47,7 @@ get_header('general-page') ?>
 
 
     <?php if(have_posts()):while(have_posts()):the_post(); ?>
-    <h4><?php the_title(); ?></h4>
+    <h4 class=""><?php the_title(); ?></h4>
 
     <?php the_content();?>
 

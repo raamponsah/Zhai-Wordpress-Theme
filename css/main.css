@@ -939,3 +939,9 @@ h1, h2, h3, h4, h5, h6{
     color: var(--brand);
     padding: 20px 0;
 }
+
+.spared-title{
+    font-size: 2.7rem;
+    margin-bottom: 2rem;
+    margin-top:2rem;
+}
