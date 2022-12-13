@@ -92,8 +92,8 @@
                 <div>
                     <h5>Widowhood Support</h5>
                     <p>
-                        We offer support to those in health needs. We organise health free programs to allow people to
-                        benefit health-wise.
+                        A great support to widows in their time of trouble, widowhood support provides information and
+                        guidance on all aspects of long-term financial planning.
                     </p>
                 </div>
             </div>
