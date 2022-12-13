@@ -219,8 +219,7 @@ main section#featured-project{
 
 
 
-main section#featured-project .featured-image img{
-    width: 650px;
+main section#featured-project .featured-image{
     padding: 1rem 0;
     margin: 0 auto;
     position: relative;
