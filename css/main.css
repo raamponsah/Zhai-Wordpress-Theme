@@ -219,7 +219,7 @@ main section#featured-project{
 
 
 main section#featured-project .featured-image img{
-    width: 650px;
+
     padding: 1rem 0;
     margin: 0 auto;
     position: relative;
@@ -233,7 +233,6 @@ main section#featured-story h3{
 }
 
 main section#featured-project .featured-story{
-    width: 50%;
     padding: 1rem 0;
     margin: 0 auto;
     position: relative;
