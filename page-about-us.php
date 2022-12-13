@@ -192,9 +192,9 @@
                         <h5>John Paul</h5>
                         <h6>CEO & Country Director- Ghana</h6>
                         <p>
-                            An educationist and and professional adult educator. At present, he is a doctoral mentee at
-                            the University Ghana. He has compassion for the needy, especially school dropouts who
-                            make ends meet as street hawkers.
+                            John-Paul Azaonoo is the Country Director for ZHAI Ghana in Accra. John-Paul cares about the
+                            suffering of the poor, especially school dropouts who survive by selling goods on the
+                            street. He is also an accomplished educationist and business administrator
                         </p>
 
                     </div>
