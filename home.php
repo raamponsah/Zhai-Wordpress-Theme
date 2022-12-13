@@ -25,33 +25,23 @@ get_header('general-page') ?>
     </div>
     <h3 class="spared-title">Articles by Zhai Founder</h3>
     <div class="articles-wrapper">
+        <?php if(have_posts()):while(have_posts()):the_post(); ?>
         <div class="article">
             <div class="article-image">
-                <img src="<?php _e(get_stylesheet_directory_uri())?>/images/4.jpg" alt="">
+                <img src="<?php get_the_post_thumbnail( )?>" alt="">
             </div>
-            <h4 class="article-title">Article One</h4>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint veritatis perspiciatis aliquid voluptates
-                adipisci illo, est suscipit reprehenderit cum quaerat. </p>
+            <h4 class="article-title"><?php the_title(); ?></h4>
+            <p><?php the_excerpt( ) ?></p>
         </div>
+        <?php endwhile;endif; ?>
 
-        <div class="article">
-            <div class="article-image">
-                <img src="<?php _e(get_stylesheet_directory_uri())?>/images/4.jpg" alt="">
-            </div>
-            <h4 class="article-title">Article One</h4>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint veritatis perspiciatis aliquid voluptates
-                adipisci illo, est suscipit reprehenderit cum quaerat. </p>
-        </div>
     </div>
 
 
 
-    <?php if(have_posts()):while(have_posts()):the_post(); ?>
-    <h4 class=""><?php the_title(); ?></h4>
 
-    <?php the_content();?>
 
-    <?php endwhile;endif; ?>
+
 
 
 </main>
