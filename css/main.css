@@ -880,6 +880,8 @@ h1.header-page-jumbo-title{
 
 }
 
+
+
 .articles-wrapper{
     display:grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -890,7 +892,7 @@ h1.header-page-jumbo-title{
 
 .article{
     display:flex;
-    flex-direction:column;
+    flex-direction:row wrap;
     justify-content:space-between;
     height:100%;
     padding:1rem;
@@ -922,7 +924,6 @@ h1.header-page-jumbo-title{
     width: 400px;
     height: 400px;
     overflow: hidden;
-
 }
 
 .article-image img{
