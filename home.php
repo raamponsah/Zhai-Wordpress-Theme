@@ -1,6 +1,5 @@
 <?php
 
-// Template Name: Founder's Page
 
 get_header('general-page') ?>
 <aside class="page-cta">
