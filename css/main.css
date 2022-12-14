@@ -970,8 +970,11 @@ h3.spared-title {
 }
 
 .contact-hub{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 40px;
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    width:100%;
+    gap:30px;
+    padding:4rem 0;
+    padding: 4rem var(--site-padding);
 
 }
