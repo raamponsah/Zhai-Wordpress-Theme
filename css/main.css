@@ -970,9 +970,8 @@ h3.spared-title {
 }
 
 .contact-hub{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 40px;
-    flex-direction: row wrap;
+
 }
