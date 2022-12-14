@@ -2,7 +2,7 @@
 
 
 get_header('founder') ?>
-<aside class="pg">
+<aside class="page-cta pg">
 
     <h2>Zihao Zhuang</h2>
 
