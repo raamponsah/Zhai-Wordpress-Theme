@@ -4,7 +4,8 @@
 get_header('founder') ?>
 <aside class="pg">
 
-    <h2>Zihao Zhuang</h2>
+
+    <h4>Zihao Zhuang</h4>
 
     <p>
         ZHAI believes that a person who is no longer stymied by reading a job application will have the skills
@@ -13,14 +14,13 @@ get_header('founder') ?>
         nutrition and preventative care, which benefits both the individual and the nation as a whole.
     </p>
 
-
 </aside>
 
 <main>
 
 
 
-    <div class="founder-video">
+    <div class=" founder-video">
 
     </div>
     <h3 class="spared-title">Articles by Zhai Founder</h3>

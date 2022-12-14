@@ -52,5 +52,16 @@ function zhai_home_widgets_init(){
         "after_title"=> '</h3>',
         
     ]);
+
+    register_sidebar([
+        "name"=> esc_html__('Video Widget', 'zhai'),
+        "id"=> 'video-widget',
+        "description"=> esc_html__('Add widgets for video', 'zhai'),
+        "before_widget"=> '<section id="video-callout" class="widget %2$s callout">',
+        "after_widget"=> '</section>',
+        "before_title"=> '<h3 class="video-title">',
+        "after_title"=> '</h3>',
+        
+    ]);
 };
 add_action('widgets_init', 'zhai_home_widgets_init');
