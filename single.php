@@ -1,48 +1,60 @@
 <?php
-/**
- * The template for displaying all single posts and attachments
- *
- * @package WordPress
- * @subpackage Twenty_Fifteen
- * @since Twenty Fifteen 1.0
- */
- 
-get_header(); ?>
 
-<div id="primary" class="content-area">
-    <main id="main" class="site-main" role="main">
 
-        <?php
-        // Start the loop.
-        while ( have_posts() ) : the_post();
- 
-            /*
-             * Include the post format-specific template for the content. If you want to
-             * use this in a child theme, then include a file called called content-___.php
-             * (where ___ is the post format) and that will be used instead.
-             */
-            get_template_part( 'content', get_post_format() );
- 
-            // If comments are open or we have at least one comment, load up the comment template.
-            if ( comments_open() || get_comments_number() ) :
-                comments_template();
-            endif;
- 
-            // Previous/next post navigation.
-            the_post_navigation( array(
-                'next_text' => '<span class="meta-nav" aria-hidden="true">' . __( 'Next', 'twentyfifteen' ) . '</span> ' .
-                    '<span class="screen-reader-text">' . __( 'Next post:', 'twentyfifteen' ) . '</span> ' .
-                    '<span class="post-title">%title</span>',
-                'prev_text' => '<span class="meta-nav" aria-hidden="true">' . __( 'Previous', 'twentyfifteen' ) . '</span> ' .
-                    '<span class="screen-reader-text">' . __( 'Previous post:', 'twentyfifteen' ) . '</span> ' .
-                    '<span class="post-title">%title</span>',
-            ) );
- 
-        // End the loop.
-        endwhile;
-        ?>
+get_header('founder') ?>
+<aside class="pg">
 
-    </main><!-- .site-main -->
-</div><!-- .content-area -->
+    <h2>Zihao Zhuang</h2>
 
-<?php get_footer(); ?>
+    <p>
+        ZHAI believes that a person who is no longer stymied by reading a job application will have the skills
+        to
+        not only find but also keep a job. Improved literacy also leads to more informed health decisions about
+        nutrition and preventative care, which benefits both the individual and the nation as a whole.
+    </p>
+
+
+</aside>
+
+<main>
+
+
+
+    <div class="founder-video">
+
+    </div>
+    <h3 class="spared-title">Articles by Zhai Founder</h3>
+    <div class="articles-wrapper">
+        <?php if (have_posts()):
+            while (have_posts()):
+                the_post(); ?>
+        <div class="article">
+            <div class="article-image">
+                <a href="<?php the_permalink() ?>"><img src="<?php the_post_thumbnail() ?>" alt=""></a>
+            </div>
+            <a href="<?php the_permalink() ?>">
+                <h4 class="article-title">
+                    <?php the_title(); ?>
+                </h4>
+            </a>
+            <p>
+                <?php the_excerpt() ?>
+            </p>
+        </div>
+        <?php endwhile; endif; ?>
+
+    </div>
+
+
+
+
+
+
+
+
+</main>
+
+<?php get_template_part('includes/mission-sections-page'); ?>
+
+
+<?php get_footer() ?>
