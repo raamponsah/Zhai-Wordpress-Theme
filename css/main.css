@@ -934,14 +934,16 @@ h1.header-page-jumbo-title{
 
 }
 
-aside.page-cta.pg{
+aside.pg{
+    min-height: 200px;
+    width: 100%;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    width:100%;
-    padding: 4rem 0;
-    gap: 20px;
+    grid-template-columns: 1fr 4fr;
+    padding: 4rem var(--site-padding);
+    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    color: white;
 }
-aside.page-cta.pg h2{
+aside.pg h2{
     font-size: 2.7rem;
     margin-bottom: 2rem;
 }
