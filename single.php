@@ -1,7 +1,7 @@
 <?php
 
 
-get_header('general-page') ?>
+get_header('single-page') ?>
 <aside class="pg">
 
     <h2>Zihao Zhuang</h2>
