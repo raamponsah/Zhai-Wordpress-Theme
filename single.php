@@ -1,7 +1,7 @@
 <?php
 
 
-get_header('founder') ?>
+get_header('general-page') ?>
 <aside class="pg">
 
     <h2>Zihao Zhuang</h2>
@@ -23,22 +23,19 @@ get_header('founder') ?>
     <div class="founder-video">
 
     </div>
-    <h3 class="spared-title">Articles by Zhai Founder</h3>
     <div class="articles-wrapper">
         <?php if (have_posts()):
             while (have_posts()):
                 the_post(); ?>
         <div class="article">
-            <div class="article-image">
-                <a href="<?php the_permalink() ?>"><img src="<?php the_post_thumbnail() ?>" alt=""></a>
-            </div>
+
             <a href="<?php the_permalink() ?>">
                 <h4 class="article-title">
                     <?php the_title(); ?>
                 </h4>
             </a>
             <p>
-                <?php the_excerpt() ?>
+                <?php the_content() ?>
             </p>
         </div>
         <?php endwhile; endif; ?>
