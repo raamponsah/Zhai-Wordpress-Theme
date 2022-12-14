@@ -980,12 +980,3 @@ h3.spared-title {
     padding: 4rem var(--site-padding);
 
 }
-
-.redefine{
-    display: flex;
-    flex-direction: row wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-
-}
