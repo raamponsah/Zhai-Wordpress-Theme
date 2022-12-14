@@ -183,7 +183,7 @@ main div#jumbotron .jumbotron-images{
 main div#jumbotron .jumbotron-images img{
     /* top:130px;
     left:10px; */
-    width:850px;
+    height:450px;
     /* position: absolute; */
     /* clip-path: inset(20px 20px 50px round 55px 0); */
     animation: fadeIn 2s ease-in-out 1;
