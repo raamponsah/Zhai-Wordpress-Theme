@@ -3,7 +3,7 @@
 // Template Name: Founder's Page
 
 get_header('general-page') ?>
-<aside class="page-cta">
+<aside class="page-cta redefine">
     <div class="page-cta-text">
         <div>
             <h3>Re-defining: Hope To the African</h3>
