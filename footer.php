@@ -8,11 +8,11 @@
         <h5>ZHAI Foundation</h5>
         <dl>
             <dt>Address</dt>
-            <dd>1234, Main Street, New York, NY 12345</dd>
+            <dd>CASTLE BRIDGE STREET, EAST ADENTA, ACCRA, Adentan</dd>
             <dt>Phone</dt>
-            <dd>(123) 456-7890</dd>
+            <dd>(+233) 0209448073</dd>
             <dt>Email</dt>
-            <dd>info@zhelpfoundation.org</dd>
+            <dd>info@zhelpafricainternational.org</dd>
         </dl>
     </div>
 

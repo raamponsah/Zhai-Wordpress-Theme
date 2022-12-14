@@ -958,3 +958,13 @@ h3.spared-title {
     font-weight: 300;
     line-height: 1.7;
 }
+
+#info, #footer h3,h4,h5{
+    font-size: 1rem;
+    color:white;
+    padding:4rem 0;
+    text-align:center;
+
+
+
+}
