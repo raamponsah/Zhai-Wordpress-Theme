@@ -959,7 +959,7 @@ h3.spared-title {
     line-height: 1.7;
 }
 
-#info, #footer h3,h4,h5{
+#info, #footer{
     font-size: 1rem;
     color:white;
     padding:4rem 0;
