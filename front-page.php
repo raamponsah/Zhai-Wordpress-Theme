@@ -26,8 +26,8 @@
                 </div>
 
                 <div class="jumbotron-images">
-                    <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/1.jpg" class="jumb-img" alt="">
-                    <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/11.jpg" class="jumb-img" alt="">
+                    <!-- <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/1.jpg" class="jumb-img" alt=""> -->
+                    <img src="<?php _e(get_stylesheet_directory_uri()) ?>/images/founder.jpeg" class="jumb-img" alt="">
                 </div>
             </div>
         </div>
