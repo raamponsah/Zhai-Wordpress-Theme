@@ -10,7 +10,7 @@
             <dt>Address</dt>
             <dd>CASTLE BRIDGE STREET, EAST ADENTA, ACCRA, Adentan</dd>
             <dt>Phone</dt>
-            <dd>(+233) 0209448073</dd>
+            <dd>(+233) 0245362113</dd>
             <dt>Email</dt>
             <dd>info@zhelpafricainternational.org</dd>
         </dl>
