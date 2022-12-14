@@ -166,6 +166,8 @@ main div#jumbotron .jumbotron-text p{
 
 main div#jumbotron .jumbotron-images{
     width: 55%;
+    height: 550px;
+    overflow: hidden;
     padding: 1rem 0;
     margin: 0 auto;
     position: relative;
