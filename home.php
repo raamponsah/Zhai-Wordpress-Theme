@@ -3,28 +3,32 @@
 
 get_header('founder') ?>
 <aside class="pg">
-    <aside class="page-cta redefine">
-        <div class="page-cta-text">
+    <aside class="page-cta">
+        <div class="redefine">
+            <div class="page-cta-text">
 
 
-            <h4>Zihao Zhuang</h4>
+                <h4>Zihao Zhuang</h4>
 
-            <p>
-                ZHAI believes that a person who is no longer stymied by reading a job application will have the skills
-                to
-                not only find but also keep a job. Improved literacy also leads to more informed health decisions about
-                nutrition and preventative care, which benefits both the individual and the nation as a whole.
-            </p>
+                <p>
+                    ZHAI believes that a person who is no longer stymied by reading a job application will have the
+                    skills
+                    to
+                    not only find but also keep a job. Improved literacy also leads to more informed health decisions
+                    about
+                    nutrition and preventative care, which benefits both the individual and the nation as a whole.
+                </p>
 
-            <div>
-                <a href="" class="button button-outline orange">JOIN US TODAY</a>
+                <div>
+                    <a href="" class="button button-outline orange">JOIN US TODAY</a>
+                </div>
             </div>
-        </div>
 
-        <div class="video-widget">
-            <?php if (is_active_sidebar('video-widget')): ?>
-            <?php dynamic_sidebar('video-widget'); ?>
-            <?php endif; ?>
+            <div class="video-widget">
+                <?php if (is_active_sidebar('video-widget')): ?>
+                <?php dynamic_sidebar('video-widget'); ?>
+                <?php endif; ?>
+            </div>
         </div>
     </aside>
 
