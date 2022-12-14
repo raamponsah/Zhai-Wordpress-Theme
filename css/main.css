@@ -951,3 +951,10 @@ aside.pg h2{
 h3.spared-title {
     margin-top: 50px;
 }
+
+
+.pg p{
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.7;
+}
