@@ -186,7 +186,7 @@ main div#jumbotron .jumbotron-images{
 main div#jumbotron .jumbotron-images img{
 
     width:850px;
-    /* position: absolute; */
+    position: absolute;
     /* clip-path: inset(20px 20px 50px round 55px 0); */
     animation: fadeIn 2s ease-in-out 1;
     box-shadow:5px 5px 10px rgba(0,0,0,0.2);
