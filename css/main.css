@@ -974,4 +974,5 @@ h3.spared-title {
     justify-content: center;
     align-items: center;
     gap: 40px;
+    flex-direction: row wrap;
 }
