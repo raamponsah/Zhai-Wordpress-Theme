@@ -136,7 +136,8 @@ main div#jumbotron{
 
     color: var(--brand-light);
     line-height: 1.5;
-    clip-path:polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+    /* clip-path:polygon(0 0, 100% 0, 100% 75vh, 0 100%); */
+
     /* margin: -16.5px; */
    
 }
@@ -181,11 +182,10 @@ main div#jumbotron .jumbotron-images{
     animation: fadeIn 2s ease-in-out 1;
 } */
 main div#jumbotron .jumbotron-images img{
-    top:130px;
-    left:10px;
-    height:450px;
-    position: absolute;
-    clip-path: inset(20px 20px 50px round 55px 0);
+
+    width:850px;
+    /* position: absolute; */
+    /* clip-path: inset(20px 20px 50px round 55px 0); */
     animation: fadeIn 2s ease-in-out 1;
     box-shadow:5px 5px 10px rgba(0,0,0,0.2);
  
