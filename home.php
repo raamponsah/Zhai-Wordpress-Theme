@@ -30,11 +30,13 @@ get_header('founder') ?>
                 the_post(); ?>
         <div class="article">
             <div class="article-image">
-                <img src="<?php the_post_thumbnail() ?>" alt="">
+                <a href="<?php the_permalink() ?>"><img src="<?php the_post_thumbnail() ?>" alt=""></a>
             </div>
-            <h4 class="article-title">
-                <?php the_title(); ?>
-            </h4>
+            <a href="<?php the_permalink() ?>">
+                <h4 class="article-title">
+                    <?php the_title(); ?>
+                </h4>
+            </a>
             <p>
                 <?php the_excerpt() ?>
             </p>

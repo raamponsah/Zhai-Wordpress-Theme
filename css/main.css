@@ -947,3 +947,7 @@ aside.pg h2{
     font-size: 2.7rem;
     margin-bottom: 2rem;
 }
+
+h3.spared-title {
+    margin-top: 50px;
+}
