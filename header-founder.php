@@ -47,7 +47,7 @@
                 <h3>Creating a New Africa</h3>
             </div>
 
-            <div class="video">
+            <div class="video-stay">
                 <?php if (is_active_sidebar('video-widget')): ?>
                 <?php dynamic_sidebar('video-widget'); ?>
                 <?php endif; ?>

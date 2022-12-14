@@ -980,3 +980,7 @@ h3.spared-title {
     padding: 4rem var(--site-padding);
 
 }
+
+.video {
+    width: 800px;
+}
